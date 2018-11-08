@@ -1,0 +1,28 @@
+body {
+    background: url "img/paper.jpg";
+}
+.img {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: #D2691E;
+}
+ul li {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: #8B4513;
+}
+h3 {
+    text-align: center;
+    color: #A52A2A;
+}
+a:hover {
+    margin-left: 7px;
+    font-size: 17px;
+}
+p {
+    line-height: 25px;
+}
