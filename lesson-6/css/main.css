@@ -1,13 +1,25 @@
 
-h2 {
+h1 {
     text-align: center;
+    color: #393939;
+    margin-top: 30px;
 }
 .image {
     display: inline-block;
+    margin: 10px 65px;
+    vertical-align: top;
+    width: 235px;
 }
 .subcontainer {
     text-align: center;
 }
 p {
     text-align: center;
+    font-weight: bold;
+}
+.title {
+    color: #393939;
+}
+.word {
+    color: #fd58b2;
 }
