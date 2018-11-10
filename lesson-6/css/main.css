@@ -1,0 +1,24 @@
+h2 {
+    text-align: center;
+}
+.advantages {
+    font-color: #fd58b2;
+}
+div {
+    margin: 10px 13.5% 8px 4.5%
+}
+.first {
+    float: left;
+}
+.third {
+    float: right
+}
+.subcontainer {
+    float: left
+}
+.second {
+    float: left
+}
+p {
+    text-align: center;
+}
