@@ -1,0 +1,32 @@
+
+h1 {
+    text-align: center;
+    color: #393939;
+    margin-top: 30px;
+}
+.image {
+    display: inline-block;
+    margin: 10px 65px;
+    vertical-align: top;
+    width: 350px;
+}
+.subcontainer {
+    text-align: center;
+    width: 1900px;
+}
+p {
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+
+}
+.title {
+    color: #393939;
+}
+.word {
+    color: #fd58b2;
+}
+.advantages {
+    text-align: center;
+}
