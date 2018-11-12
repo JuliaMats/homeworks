@@ -81,8 +81,6 @@ button:focus {
     text-align: center;
     width: 25%;
     float: left;
-}
-.features-block__img {
     min-height: 50px;
     margin-bottom: 23px;
 }
