@@ -13,16 +13,16 @@ h3 {
     font-family: Tahoma, sans-serif;
     font-weight: bold;
 }
-.row {
-    display: flex;
-}
 .col-12, .col-sm-12, .col-md-6, .col-lg-4, .col-xl-2 {
     margin: auto;
-    justify-content: center;
-    align-items: center;
-    min-height: 80px;
 }
 .advantage {
     padding-top: 20px;
     padding-bottom: 20px;
+}
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80px;
 }
