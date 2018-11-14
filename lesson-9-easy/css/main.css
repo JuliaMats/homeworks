@@ -1,0 +1,17 @@
+h2 {
+    text-align: center;
+    color: #393939;
+    margin-top: 30px;
+}
+.selected {
+    color: #fd58b2;
+}
+.header {
+    text-align: center;
+}
+.advantage-descr { 
+    font-family: 'Arial' sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    color: #393939;
+}
