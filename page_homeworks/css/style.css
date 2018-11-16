@@ -1,0 +1,24 @@
+body {
+    background-image: url(../img/brickwall_@2X.png);
+    font-family: 'Tahoma', sans-serif;
+}
+header {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.container {
+    padding-top: 40px;
+}
+.container-img {
+    text-align: center;
+    min-height: 70px;
+}
+.container-text {
+    font-size: 18px;
+    font-weight: 400;
+}
+img {
+    padding-bottom: 15px;
+    padding-top: 40px;
+}
