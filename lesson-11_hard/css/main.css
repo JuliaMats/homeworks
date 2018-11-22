@@ -31,18 +31,18 @@ body {
 .header-txt p {
     font-size: 14pt;
 }
-button {
+.button {
+    background-color: #f15921;
+    color: #fff;
     border: #f15921 solid 2px;
-    background-color: #fff;
-    color: #f15921;
     font-size: 20pt;
     padding: 20px 45px;
     border-radius: 6px;
-    margin-right: 40px;
+    margin-right: 40px; 
 }
-button:hover {
-    background-color: #f15921;
-    color: #fff;
+.button-o {
+    background-color: #fff;
+    color: #f15921;
 }
 .features {
     background-color: #f2f2f2;
