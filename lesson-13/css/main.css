@@ -7,6 +7,10 @@
                          'body1 body2 body3 body4' 
                          'footer-blank footer-blank footer footer-blank__empty' 
 }
+img {
+    margin: 0;
+    width: 100%;
+}
 .header {
     grid-area: header;
 }
